@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Archives
+*.zip
+*.tar.gz
+
+# Sensitive files
+*.key
+*.pem
+*.ppk
+.env
+secrets.*
+credentials.*
